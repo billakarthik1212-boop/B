@@ -1,0 +1,6 @@
+{
+  "name": "Siddeshwara Rural Mart",
+  "description": "Premium cinematic website showcasing authentic Mahadevpur Tasar handloom products, weaving heritage, and integrated WhatsApp shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
